@@ -1,4 +1,4 @@
-getgenv().SelectedPart = "Head"
+getgenv().SelectedPart = "HumanoidRootPart"
 getgenv().VisibiltyCheckt = false
 getgenv().TargetESP = true
 getgenv().FOV = 350
